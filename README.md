@@ -76,14 +76,20 @@ I enjoy solving problems and overcoming challenges. A big team player and always
 
 <details align="center">
   <summary><h3>My Coding Journey</h3></summary>
+  
   2016:
+  
 
   2019:
+  
 
   2020/21:
 
+
   2021/22:
 
+
   2023:
+
   
 </details>
