@@ -6,4 +6,3 @@ I am a full stack developer with a passion for creating web applications that ar
 
 I enjoy solving problems and overcoming challenges. A big team player and always looking to help others.
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/DoCIC5Pxp57qg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/parkour-DoCIC5Pxp57qg">via GIPHY</a></p>
