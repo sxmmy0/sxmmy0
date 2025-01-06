@@ -1,8 +1,61 @@
 <h1>👋🏾 Hi there! I'm Sam 😁🤘🏾</h1>
 
+<p align="center" >
+  <img src="gon.gif" />
+</p>
+
 `Full Stack Developer`
 
 I am a full stack developer with a passion for creating web applications that are both functional and aesthetically pleasing. I am a quick learner and I am always looking to expand my skills. All my projects are available on my [GitHub](https://github.com/sxmmy0?tab=repositories). 
 
 I enjoy solving problems and overcoming challenges. A big team player and always looking to help others.
 
+---
+
+<h3> Connect with me on LinkedIn </h3>
+<h4>
+  <p>
+    <img href=" https://www.linkedin.com/in/samuel-0bembe-/" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain-wordmark.svg" alt="linkedin_icon" width="100" height="100"/> 
+  </p>
+</h4>
+
+---
+<h3> Languages and Tools 🧰: </h3>
+
+<h4 align="center" > Version Cotrol: </h4>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git_icon" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github_icon" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain.svg" alt="gitlab_icon" width="50" height="50"/>             
+</p>
+
+<h4 align="center"> Programming Languages: </h4>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="javascript_icon" width="50" height="50"/>
+          
+</p>
+
+<h4 align="center"> Front-End: </h4>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap_icon" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" alt="css_icon" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="html_icon" width="50" height="50"/>
+          
+</p>
+
+<h4 align="center"> Back-End/Frameworks: </h4>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="django_icon" width="100" height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original-wordmark.svg" alt="djangorest_icon" width="100" height="100"/>       
+</p>
+
+<h4 align="center"> DevOps/Testing: </h4>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="docker_icon" width="50" height="50"/>
+          
+</p>
+
+<h4 align="center"> Databases: </h4>
+<p align="center">
+  
+</p>
