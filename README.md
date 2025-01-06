@@ -62,23 +62,28 @@ I enjoy solving problems and overcoming challenges. A big team player and always
 </p>
 
 --- 
+
 <p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=sxmmy0&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=sxmmy0&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=sxmmy0&show_icons=true" />
-</picture>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sxmmy0" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sxmmy0&layout=compact&langs_count=8&card_width=320" />
+  </a>
 </p>
 
 ---
 
 <details align="center">
   <summary><h3>My Coding Journey</h3></summary>
-  I started my BEng Mechanical Engineering degree in 2016 and I graduted in 2019 with an upper second class. I then started my MSc Biomedical Engineering in 2019 and graduated with a merit in 2020. During the covid lockdown I was limited and I felt I'll use the extra time to learn a new skill. That skill was python and with it I learned how to become a software developer. By builidng my portfolio I was able to land a job as a Junior Web Developer. There is still alot more I need to learn. I am always eager to learn new things and develop myself more.
+  2016:
+
+  2019:
+
+  2020/21:
+
+  2021/22:
+
+  2023:
+  
 </details>
