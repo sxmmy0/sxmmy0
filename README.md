@@ -1,4 +1,4 @@
-<h1>👋🏾 Hi there! I'm Sam 😁🤘🏾</h1>
+<h1 align="center">👋🏾 Hi there! I'm Sam 😁🤘🏾</h1>
 
 <p align="center" >
   <img src="gon.gif" />
@@ -12,15 +12,15 @@ I enjoy solving problems and overcoming challenges. A big team player and always
 
 ---
 
-<h3> Connect with me on LinkedIn </h3>
-<h4>
+<h3 align="center"> Connect with me on Linkedin: </h3>
+<h4 align="center">
   <p>
-    <img href=" https://www.linkedin.com/in/samuel-0bembe-/" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain-wordmark.svg" alt="linkedin_icon" width="100" height="100"/> 
+    <img href=" https://www.linkedin.com/in/samuel-0bembe-/" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedin_icon" width="100" height="100"/> 
   </p>
 </h4>
 
 ---
-<h3> Languages and Tools 🧰: </h3>
+<h3 align="center"> Languages and Tools 🧰: </h3>
 
 <h4 align="center" > Version Cotrol: </h4>
 <p align="center">
@@ -32,12 +32,13 @@ I enjoy solving problems and overcoming challenges. A big team player and always
 <h4 align="center"> Programming Languages: </h4>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="javascript_icon" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python_icon" width="50" height="50" />
           
 </p>
 
 <h4 align="center"> Front-End: </h4>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap_icon" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap_icon" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" alt="css_icon" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="html_icon" width="50" height="50"/>
           
@@ -52,10 +53,14 @@ I enjoy solving problems and overcoming challenges. A big team player and always
 <h4 align="center"> DevOps/Testing: </h4>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="docker_icon" width="50" height="50"/>
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" alt="postman_icon" width="50" height="50" />
 </p>
 
 <h4 align="center"> Databases: </h4>
 <p align="center">
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" alt="postgres_icon" width="50" height="50"/>
 </p>
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxmmy0&show_icons=true&theme=radical)
