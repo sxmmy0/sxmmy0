@@ -70,7 +70,7 @@ I enjoy solving problems and overcoming challenges. A big team player and always
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sxmmy0" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sxmmy0&layout=compact&langs_count=8&card_width=320" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sxmmy0&layout=compact&langs_count=8&card_width=400" />
   </a>
 </p>
 
